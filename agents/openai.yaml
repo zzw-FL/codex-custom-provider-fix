@@ -1,0 +1,6 @@
+interface:
+  display_name: "Fix Custom Model 401"
+  short_description: "Fix Codex++ routing to custom model providers (e.g. kimi via local relay)."
+  default_prompt: "Fix my custom model 401 error"
+policy:
+  allow_implicit_invocation: true
